@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<head>
+  <title>Phungela Online Solutions Homepage</title>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" 
+    content="width=device-width,initial-scale=1.0, shrink-to-fit=no">
+     <style>
+     	img {
+     		 box-sizing: content-box;
+     	}
+     	.logo {
+     		display: block;
+     		margin-left: auto;
+     		margin-right: auto;
+     	}
+        
+        header, footer {
+                         display: block;
+                         background-color: #ffd11a;
+                         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        }
+        
+        section {
+                  display: block;
+                  background-color: #2eb82e;
+                  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        }
+        
+        nav {
+             display: inline;
+             box-sizing: content-box;
+        }
+
+        a:link#nav, a:visited#nav {
+                           background-color: #2eb82e;
+                           color: white;
+                           padding: 14px 25px;
+                           text-align: center;
+
+                           display: inline-block;
+        }
+
+        a:hover#nav, a:active#nav {
+                           background-color: #adebad;
+        }
+
+        p, ul, ol, h1, h3, a {
+        	       font-family: arial;
+        } 
+         
+        a:link#contact, a:visited#contact {
+                           background-color: #ffd11a;
+                           color: white;
+                           padding: 14px 25px;
+                           text-align: center;
+                           display: inline-block;
+        }
+
+        a:hover#contact, a:active#contact {
+                           background-color: #fff0b3;
+                       }
+     </style>
+</head>
+<body>
+	<img class="logo" src="C:\Users\HARSHWRATH\Desktop\my little world of codes\Phungela online solutions\Phungela logo.png"
+	class="logo" alt="Phungela Online Solutions logo" width="350px" height="300px">
+  <header>
+      <a id="nav" href="#">Home</a>
+      <a id="nav" href="#">Contact us</a>
+      <a id="nav" href="#">About us</a>
+      <a id="nav" href="#">F.A.Q.</a>
+  </header>
+  <h1>You've just found the best way to get a website for your business and/or advertise online</h1>
+   
+   <img src="C:\Users\HARSHWRATH\Desktop\my little world of codes\Phungela online solutions\Home page\template-1599667_1280.png" width="100%" height="auto">
+  <p>Greetings visitor.</p>
+
+  <p>Are you a business owner or an individual who would like to own his/her website?<br/>
+     Would you like to attract more customers to your website or business online?</p>
+
+  <p>If you answered 'yes' to these questions then you have come to the right place. <b>Phungela Online Solutions</b> is an
+  online solutions provider that will ensure that your business is represented by a secure website of exceptional quality
+  that your clients will be sure to love and enjoy.</p>
+  
+  <p>A website is essential to the growth of a business as billions of people are using the internet all
+  over the world which means more potential clients for your business and what better way is there to connect with
+  these potential clients than to refer them your company's own website? <b>Phungela Online Solutions</b> will give you the platform
+  to connect with these potential clients by creating a secure website that your clients can use to get in touch with your business.</p>
+
+  <p>We also offer the creation of advertising campaigns on Facebook whereby your business' advertisement will be
+   posted on the news feeds of facebook users as a suggested post regardless of whether that person is your Facebook
+   friend or not. This will give your business more exposure to Facebook users (a.k.a potential clients) who have never heard about your business before.</p>
+   
+   <p>Take a look at our offerings and prices below.</p>
+
+   <section>
+     <h3 style="color: #ffd11a; text-shadow: 2px 1px black;">A fully functional and secure ecommerce website.</h3>
+     <p>We will use a third-party software to create a fully functional ecommerce website for your business.<br/>
+     An ecommerce website allows your business to sell your company's products to customers online at the comfort of their own space without them having to buy at the store's location.<br/>
+     An ecommerce website also allows your business to accept payments online by asking your customers to fill in their
+     credit card details on the website.<br/>
+     You can choose whether you want to deliver items sold online to your customers or have them pick up their orders in the store after they place an order.<br/>
+     The ecommerce website will include an SSL certificate amongst other safety features to ensure that your customer's sensitive information such as credit card details are kept safe.<br/>
+     Your ecommerce website will also have the option of including a blog for the reading pleasure of your clients.<br/>
+     This package includes the Facebook advertising campaign offered below <b>absolutely free</b> when you purchase an ecommerce website<br/><br/>
+    *This offer is recommended for business owners who would like a safe way to sell their products online</p>
+    <h3 style="color: #ffd11a; text-shadow: 2px 1px black;">Price:</h3>
+    <ul>
+    <li>R4500 for site creation (of which R1700 will be paid upfront as a deposit then the R2800 balance will be paid after the completion of the website.)</li>
+    <li>R700/month for website hosting and website functionality from the third-party software provider.</li>
+    <li>R150/year for a custom domain (i.e. www.yourbusinessname.co.za)</li>
+    </ul>
+    <a id="contact" href="#">Contact sales.</a>
+   </section>
+   
+   <section>
+    <h3 style="color: #ffd11a; text-shadow: 2px 1px black;">Facebook advertising.</h3>
+    <p>We at <b>Phungela Online Solutions</b> also offer Facebook advertising for your business which will drive potential customers to your website or store.<br/>
+    This is done by creating an advertising campaign on Facebook which will post your business' advertisement on the news feed of potential customers as a "suggested post".<br/>
+    This offer includes:</p>
+    <ol>
+    	<li>The creation of a business page on Facebook. (If your business does not have one already.)</li>
+    	<li>The creation of a Facebook business account.</li>
+    	<li>The creation of a single Facebook advertisement campaign which will post an advertisement of your business to the news feed of potential customers in any region that you choose.</li>
+    </ol>
+    <h3 style="color: #ffd11a; text-shadow: 2px 1px black;">Price:</h3>
+    <p>R750 once off.</p>
+    <a id="contact" href="#">Contact sales.</a>
+   </section>
+     
+   <section>
+   	<h3 style="color: #ffd11a; text-shadow: 2px 1px black;">E-mail marketing service</h3>
+   	<p>We will create an e-mail database for marketing purposes whereby your business will be able to collect up to <b>2000</b> e-mail addresses from potential or established clients and send up to <b>10000</b> e-mails per month so that you can market deals and special offers to your clients.<br/>
+    This e-mail service also includes basic templates for your e-mail advertisement to give your business a more professional look.<br/>
+   	The e-mail marketing service also offers built-in analytics so that you can know which offer or deal your clients are most attracted to so you know what really works and what doesn't when it comes to e-mail advertising.<br/></p>
+    <h3 style="color: #ffd11a; text-shadow: 2px 1px black;">Price:</h3>
+    <p>R500 once off for the creation of the e-mail marketing service plan.</p>
+    <a id="contact" href="#">Contact sales.</a>
+   </section>
+  <footer>
+    <p>&copy; 2019 Phungela Online Solutions.</p>
+</footer>
+</body>
+<html lang="en">
+</html>
