@@ -24,6 +24,15 @@
              box-sizing: content-box;
         }
 
+        a:link, a:visited {
+                           color: #2eb82e;
+                           text-decoration: none;
+        }
+        
+        a:hover, a:active {
+                           color:#adebad;
+        }
+
         a:link#nav, a:visited#nav {
                            background-color: #2eb82e;
                            color: white;
