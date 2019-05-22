@@ -62,4 +62,8 @@
         a:hover#contact, a:active#contact {
                            background-color: #fff0b3;
                        }
+        caption {
+                 font-style: italic;
+                 font-size:12px;
+        }
    
