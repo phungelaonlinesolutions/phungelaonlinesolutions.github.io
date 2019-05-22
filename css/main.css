@@ -44,8 +44,9 @@
         a:link#contact, a:visited#contact {
                            background-color: #ffd11a;
                            color: white;
-                           padding: 14px 25px;
+                           padding: 14px 18px;
                            text-align: center;
+                           text-decoration: none;
                            display: inline-block;
         }
 
